@@ -1,0 +1,13 @@
+{
+  "name": "papp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "1.19.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
